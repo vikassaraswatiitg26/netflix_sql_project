@@ -2,8 +2,6 @@
 ![Netflix Logo](https://github.com/vikassaraswatiitg26/netflix_sql_project/blob/main/BrandAssets_Logos_01-Wordmark.jpg)
 
 
-# 🎬 Netflix Content Analysis using SQL
-
 This project explores and analyzes a dataset of Netflix content using SQL. It covers the breakdown of movies and TV shows, most common content ratings, longest films, popular genres, and more. The goal is to gain insights into Netflix’s global content library.
 
 ---
